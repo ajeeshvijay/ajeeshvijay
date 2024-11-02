@@ -16,10 +16,3 @@
   </div>
 </div>
 
----
-
-### 💻 &nbsp; About Me :
-I am a Fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kerala.
-- I’m working as a Senior web developer and building large scale web applications.
-
----
